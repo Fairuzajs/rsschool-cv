@@ -14,3 +14,12 @@
 * sass/scss
 * responsive cemantic
 * grid layot / flex
+## Education
+1. Ufa State Petroleum Technological University
+    + Geology and Exploration of oil and gas fields
+2. TSU - " web-developer"
+3. rss - fejs2023q2, fejs0st2023g2,
+4. Code-basics free courses
+    + HTML
+    + CSS
+    + Java Script
