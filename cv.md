@@ -24,5 +24,5 @@
     + CSS
     + Java Script
 ## Language
-* English: pre-intermadiate
+* English: intermadiate
 * Russia: native
